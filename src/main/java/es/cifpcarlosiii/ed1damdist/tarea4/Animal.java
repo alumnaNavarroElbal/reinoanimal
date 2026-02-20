@@ -1,5 +1,8 @@
 package es.cifpcarlosiii.ed1damdist.tarea4;
 
+/**
+ * Class Animal
+ */
 public class Animal {
 
     String nombre;
