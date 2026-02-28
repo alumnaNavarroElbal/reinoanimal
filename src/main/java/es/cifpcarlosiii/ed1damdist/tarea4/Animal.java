@@ -1,5 +1,8 @@
 package es.cifpcarlosiii.ed1damdist.tarea4;
 
+/**
+ * @author Maria Navarro Elbal
+ */
 public class Animal {
 
     String nombre;
